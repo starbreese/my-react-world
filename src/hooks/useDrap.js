@@ -1,5 +1,7 @@
 import { useRef, useMemo, useLayoutEffect, useState } from 'react'
 /* 移动端 -> 拖拽自定义效果(不使用定位) */
+var sUserAgent = navigator.userAgent.toLowerCase()
+const ifMobile = (/ipad|iphone|midp|rv:1.2.3.4|ucweb|android|windows ce|windows mobile/.test(sUserAgent))
 function useDrapDrop() {
   /* 保存上次移动位置 */
   const lastOffset = useRef({
@@ -8,8 +10,7 @@ function useDrapDrop() {
     X: 0, /* 上一次保存X值 */
     Y: 0 /* 上一次保存Y值 */
   })
-  var sUserAgent = navigator.userAgent.toLowerCase()
-  const ifMobile = (/ipad|iphone|midp|rv:1.2.3.4|ucweb|android|windows ce|windows mobile/.test(sUserAgent))
+  
   /* 获取当前的元素实例 */
   const currentDom = useRef(null)
   /* 更新位置 */
@@ -59,7 +60,7 @@ function useDrapDrop() {
     } else {
       dom.onmousedown = ontouchstart
     }
-  }, [])
+  }, [ontouchend, ontouchmove, ontouchstart])
   return [{ x: lastOffset.current.x, y: lastOffset.current.y }, currentDom]
 }
 

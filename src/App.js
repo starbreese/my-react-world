@@ -11,7 +11,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p ref={ dropRef }
           style={{ transform: `translate(${ style1.x }px, ${ style1.y }px)` }}>
-          Edit <code>src/App.js</code> and save to reload.
+          move me <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
