@@ -1,0 +1,4 @@
+- Don't ever let somebody tell you you can't do something.
+- I have come here to chew bubblegum and kick ass and I'm all out of bubblegum.
+- The secret of life is just to live every moment.
+- Another rogue trader has cost a bank billions.
