@@ -71,3 +71,30 @@
 - wear a horrible uniform.
 - Nowadays, the atmosphere is more relaxed.
 - dress the way they want-as long as they're reasonably smart(well dressed and not too casual)
+
+### student services
+- admissions -> to apply for one of our postgraduate programmes, check the entry requirements on the programme page.Then click here to submit your application.
+- funding -> Tuition fees should be paid at the beginning of the academic year.To apply for a student loan or scholarship click here.
+- Student union -> find out more ablout student societies and clubs.
+
+### study and exams
+- Before an exam, some students cram for it...do some revision...
+- some things can be memorised or learnt by heart...use mnemonic...
+- all things considered, the best idea is to bury yourself in your books and to study intensively until you know the subject inside out.
+### academic writing
+- Composition can be just 100 words,often used for school work.
+- essay longer than a composition,morre serious, hundreds or thousands of words.
+- assignment a long essay, often part of a course, usually thousands of words.
+- project like an assignment, but emphysis on student's own material and topic.
+- portfolio a collection of individual pieces of works;
+- dissertation a long, research-based work, perhaps 10-15000 words, for a degree or diploma.
+- thesis a very long, original, research-based work, perhaps 80-100000 words, for a higher degree e.g. phD
+- good idea to start with a mind map.Always write a first draft before wrriting up the final version.
+- Your essay should be all your own work.plagiarism is a very serious offence in college.
+- It is increasing problem because it is so easy to copy and paste from materials available on the internet, and students have to sign a palgiarism form to say that the work they are handing in is all their own and that they acknowledge any source they have used.
+- There is a deadline.After the eaasy is submitted, it will be assessed and usually you can get feedback.
+### Aspects of higher academic study
+- University academics carry out research and are expected to read academic journals, which publish papers/articles on specialised subjects. 
+- If a library does not have a copy of a book or journal, you may be able to access it online or you can usually get it through an inter-library loan. Open educational resources are paticularly convenient for many students.
+- Academic study can be very demanding, and some students drop out, but the majority survive till finals and become well-qualified members of their future professions.
+- 
