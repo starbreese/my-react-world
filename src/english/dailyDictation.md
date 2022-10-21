@@ -2,3 +2,28 @@
 - I have come here to chew bubblegum and kick ass and I'm all out of bubblegum.
 - The secret of life is just to live every moment.
 - Another rogue trader has cost a bank billions.
+- A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to Earth, but nobody knows where the debris will hit.
+- It's a lofty, probably impossible goal.
+- New York swept the Tampa Bays Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+- Jim Henson, creator of the muppets--from Kermit the Frog to Sesame Street--is born in Greenville, Mississippi.
+- Asian tiger mosquitoes are native to the tropics of Southeast Asia but in the past few years, they've spread all across the  southeastern United States.
+- Cats reputedly have 9 lives and he clearly wanted to spend at least one of them here in New York City.
+- The frantic pacing--scene changes every 11 seconds on average--often leads kids zoned out and spun up, unable to concentrate.
+- Battered, soaked and flooded, the Philippines is being hit by its second/2nd typhoon in a week.
+- The wine has a rich aromatic flavour.
+- Hang the expense.
+- I know it knocks you cold.
+- We have a representative sample.
+- I am as healthy as ever.
+- The boy potted a partridge.
+- The house stands alone on the hill.
+- He saluted and stood at attention.
+- It was a close race.
+- She made artificial flowers from paper.
+- I apologize if you took offense.
+- Your passport expire.
+- Descale, gut and clean the fish.
+- A few years ago, they were thought to be useless--past their prime--not now.
+- If you are breathing, it is not too late.Get up and get going.
+- A 67-years-old grandpa has been found alive after being stuck for 6 days at the bottom of a ravine.
+- 

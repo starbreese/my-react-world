@@ -1,4 +1,8 @@
 ## writing 1
+### types
+- line graph
+- bar graph
+- 
 ### Remember
 - decribe what you see
 - write a report
